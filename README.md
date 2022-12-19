@@ -6,10 +6,10 @@
 ## Resources
 Read or watch:
 
-* RSA <a href="https://jaredatandi.hashnode.dev/rsa-factoring"></a>
-* How does HTTPS provide security? <a href="https://stackoverflow.com/questions/3968095/how-does-https-provide-security"></a>
-* Prime Factorization <a href="https://privacycanada.net/mathematics/prime-factorization"></a>
-* Why RSA? <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem%29"></a>
+* RSA <a href="https://jaredatandi.hashnode.dev/rsa-factoring">Click me</a>
+* How does HTTPS provide security? <a href="https://stackoverflow.com/questions/3968095/how-does-https-provide-security">Click me</a>
+* Prime Factorization <a href="https://privacycanada.net/mathematics/prime-factorization">Click me</a>
+* Why RSA? <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem%29">Click me</a>
 
 ### Requirements
 * General
